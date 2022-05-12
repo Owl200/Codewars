@@ -1,4 +1,4 @@
-//url: https://www.codewars.com/kata/614ac445f13ead000f91b4d0/train/javascript
+//url: https://www.codewars.com/kata/614ac445f13ead000f91b4d0/train/javascript 5Kyu
 
 function valueOfX(eq) {
     let [leftSide, rightSide] = eq.split('=')
