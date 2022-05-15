@@ -15,4 +15,4 @@ function coinsNeeded(amount, coinDenominations) {
     console.log(totalCoins)
   }
 
-  coinsNeeded(123,[1,2,5,10,20,50])
+//example: coinsNeeded(123,[1,2,5,10,20,50])
