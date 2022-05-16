@@ -6,11 +6,11 @@ var nbrOfLaps = function (x, y) {
     while(i * x % y !== 0){
       i++
     }
-    xLaps = i; 
+    let xLaps = i; 
     i = 1
     while(i * y % x !== 0){
       i++
     }
-    yLaps = i; 
+    let yLaps = i; 
     return [xLaps, yLaps];
   }
